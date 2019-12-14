@@ -1,2 +1,9 @@
 # Image-Enhancement
-Using only Image processing techniques, we built a project to Improve Images by Denoising, Color Balancing, Light Enhancement, Sharpening &amp; Dehazing of input images from most recent papers in each part..
+Using only Image processing techniques, we built a project to Improve Images using:
+## Denoising
+## Color Balancing
+## Light Enhancement
+## Sharpening
+## Dehazing
+
+Papers used in the project is attached in Papers folder.
